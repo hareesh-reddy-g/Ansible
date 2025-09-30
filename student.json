@@ -1,21 +1,21 @@
 {
-   "name": "Hareesh Reddy",
-   "dob": "07-08-2001"
-   "addresses": [
-     {
-         "type": "Current",
-         "doorno": "1-23",
-         "street": "ramiganivaripalli",
-         "city": "thamballapalle",
-         "pin": 517418 
-     },  
-     {
-         "type": "Permanent",
-         "doorno": "1-23",
-         "street": "ramiganivaripalli",
-         "city": "thamballapalle",
-         "pin": 517418
-     }
-   ],
-   "skills": ["Java", "DevOps", "Cloud"]
+    "name": "Hareesh reddy",
+    "dob": "01-01-01",
+    "addresses": [
+        {
+            "type": "current",
+            "doono": "1-23",
+            "street": "gandhi nagar",
+            "city": "hyd",
+            "pin": 50082
+        },
+        {
+            "type": "perm",
+            "doono": "1-23",
+            "street": "gandhi nagar",
+            "city": "hyd",
+            "pin": 50082
+        }
+    ],
+    "skills": ["java", "devops", "cloud"]
 }
