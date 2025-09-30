@@ -1,0 +1,41 @@
+- name: "Hareesh Reddy"
+  dob: "07-08-2001"
+  age: 24
+  addresses:
+    # Object 
+    - doorNo: 8-50-2
+      street: "Ramiganivaripalli"
+      city:"Thamballapalle"
+      pin: 517418
+      type: "current"
+  
+    - doorNo: 8-50-2
+      street: "Ramiganivaripalli"
+      city:"Thamballapalle"
+      pin: 517418
+      type: "permanent"
+   skills:
+   -Java
+   -DevOps
+   -Cloud
+
+- name: "chdghcgxs"
+  dob: "07-08-2001"
+  age: 24
+  addresses:
+    # Object 
+    - doorNo: 8-50-2
+      street: "Ramiganivaripalli"
+      city:"Thamballapalle"
+      pin: 517418
+      type: "current"
+  
+    - doorNo: 8-50-2
+      street: "Ramiganivaripalli"
+      city:"Thamballapalle"
+      pin: 517418
+      type: "permanent"
+   skills:
+   -Java
+   -DevOps
+   -Cloud
