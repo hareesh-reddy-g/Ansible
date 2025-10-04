@@ -15,3 +15,9 @@
       NAME: from task level
     ansible.builtin.debug:
       msg: "Name: {{ NAME }}"
+
+      #  commands for execution preferences
+      #  ansible-playbook -i inventory.ini -e ansible_user=ec2-user -e ansible_password=DevOps321 -e "NAME=from-command-line" 10-vars-preference.yaml
+
+      #   ansible-playbook -i inventory.ini -e ansible_user=ec2-user -e ansible_password=DevOps321 10-vars-preference.yaml
+      # here on above commands after execcution we have to give as this command  ---->         from prompt    
