@@ -6,3 +6,5 @@
   - name: facts
     ansible.builtin.debug:
       msg: "{{ ansible_facts }}"
+
+      # output is we got total information and stored in facts.json file under this Ansible repository
