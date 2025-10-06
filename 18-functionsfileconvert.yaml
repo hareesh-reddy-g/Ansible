@@ -45,4 +45,7 @@
       content: "{{ student_yaml | to_nice_json }}"
 
 
+ # converting yaml file to json file
+ # command is ansible-playbook -i inventory.ini -e ansible_user=ec2-user -e ansible_password=DevOps321 18-functionsfileconvert.yaml
+ # vim student.json ( here in the vim folder we are able to see json file format)
  
