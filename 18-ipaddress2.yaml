@@ -4,7 +4,7 @@
   vars:
     technologies: DevOps,Linux,Shell,Ansiblr # string
     gmail: "HAREESH.reddy@gmail.com"
-    ipaddress: "342.373.897.98"
+    ipaddress: "3426.373.897.98"
     # dictionary == map
     tags:
       Application: payment
