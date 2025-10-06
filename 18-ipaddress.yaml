@@ -56,3 +56,4 @@
     # here ansible is python builtin right so we have to install python in server before execution command
     # for checking which ansible version  ( ansible --version)
     # command is (  pip3.9 netaddr)
+    # ansible-playbook -i inventory.ini -e ansible_user=ec2-user -e ansible_password=DevOps321 18-ipaddress.yaml
