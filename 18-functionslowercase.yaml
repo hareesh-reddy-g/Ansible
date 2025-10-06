@@ -3,7 +3,7 @@
   connection: local
   vars:
     technologies: DevOps,Linux,Shell,Ansiblr # string
-    name: "Hareesh Reddy g"
+    gmail: "HAREESH.reddy@gmail.com"
     # dictionary == map
     tags:
       Application: payment
@@ -47,4 +47,4 @@
 
   - name: convert lowercase
     ansible.builtin.debug:
-      msg: "{{ name | lower }}"
+      msg: "{{ gmail | lower }}"
