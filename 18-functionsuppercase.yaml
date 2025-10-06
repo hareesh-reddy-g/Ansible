@@ -3,6 +3,7 @@
   connection: local
   vars:
     technologies: DevOps,Linux,Shell,Ansiblr # string
+    name: "Hareesh Reddy g"
     # dictionary == map
     tags:
       Application: payment
